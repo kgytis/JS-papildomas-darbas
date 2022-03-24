@@ -1,0 +1,10 @@
+{
+    "header": [
+        {
+            "imageSrc": "https://i.gifer.com/8V9H.gif"
+        },
+        {
+            "navigationLinks" : ["About", "Films", "Series", "Contacts"]
+        }
+    ]
+}
