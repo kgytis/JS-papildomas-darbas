@@ -1,0 +1,237 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.main{
+    height: auto;
+    background-color: rgb(61, 82, 107);
+    color: white;
+}
+
+/*Header -> Menu stilizavimas*/
+
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position:sticky;
+    top: 0;
+    z-index: 10;
+    background-color: rgb(45, 62, 82);
+}
+
+.logoDiv img{
+    height: 6rem;
+    width: 6rem;
+}
+
+/*Atskiru Div stilizavimas*/
+.logoDiv {
+    height: 6rem;
+    width: 6rem;
+}
+
+.navigationDiv{
+    display: none;
+    width: 100%;
+}
+
+
+/*---------------------------*/
+
+/*Navigation Bar stilizavimas*/
+.navigationDiv ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.navigationDiv a{
+    text-decoration: none;
+    padding: 0.67em 0;
+}
+
+.navigationDiv li:hover{
+    color: rgb(79, 109, 143);
+}
+
+.navigationDiv li{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 0.5rem;
+    font-size: 1.5rem;
+}
+
+.burger{
+    font-size: 2rem;
+}
+/*---------------------------*/
+
+/*Films bei series dalies stilizavimas*/
+h1, h2, h4, p {
+    margin: 5px;
+}
+
+h3{
+    margin: 5px 0;
+}
+
+.smallAbout {
+    display: flex;
+    margin: 5px;
+}
+
+.smallAbout div:first-child{
+    display: flex;
+    flex-direction: column;
+}
+
+#films img, #series img {
+    width: auto;
+    height: 400px;
+}
+
+#films h2, #series h2{
+    position: sticky;
+    z-index: 9;
+    top: 6rem;
+    background-color:rgb(61, 82, 107);
+}
+
+#films h2 a, #series h2 a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/*---------------------------*/
+
+/*Footer stilizavimas*/
+i {
+    padding: 5px;
+    font-size: 2rem;
+}
+i:hover{
+    color: rgb(142, 142, 207);
+}
+
+.footerNavigationDiv ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+}
+
+.footerNavigationDiv a{
+    text-decoration: none;
+    padding: 0.67em;
+    border-radius: 5px;
+}
+
+.footerNavigationDiv a:hover{
+    background-color: rgb(79, 109, 143);
+}
+
+.footerNavigationDiv li{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 0.5rem;
+}
+
+.footerNavigationDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+/*Kad icons butu baltos, re-writing bootstrap*/
+.bi {
+    color: white;
+}
+.footerNavigationBigDiv{
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px solid white;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+
+/*---------------------------*/
+
+@media (min-width: 1200px) {
+
+/*Pasikeitus ekranui pasikeicia header ir footer stilius*/
+
+    header, .footerNavigationBigDiv{
+        justify-content: space-between;
+        }
+    
+        .logoDiv, .navigationDiv{
+            width: 50%;
+        }
+    
+        .navigationDiv{
+            display: flex!important;
+            justify-content: center;
+        }
+
+        .navigationDiv ul{
+            flex-direction: row;
+            width: 100%;
+            align-self: center;
+        }
+
+        .burger{
+            display: none;
+        }
+        
+        .navigationDiv ul a{
+            font-size: 2rem;
+            border-radius: 5px;
+            padding: 0;
+            height: 30px;
+        }
+/*---------------------------*/
+/*Pasikeitus ekranui pasikeicia pagr. dalies display į grid ir nuimami flexai ir kt. stilizavimai*/
+        .smallAbout{
+            display: block;
+        }
+
+        #films, #series{
+            display: grid;
+            grid-template-columns: repeat(1fr, 4);
+            grid-template-rows: repeat(1fr, 4);
+        }
+
+        #films h2, #series h2 {
+            grid-area: 1 / 1 / 2 / 4;
+            text-align: center;
+        }
+        #films h2::before, #series h2::before{
+            border-bottom: 2px solid white;
+            display: block;
+            content: '';
+        }
+        #films h2::after, #series h2::after{
+            border-bottom: 2px solid white;
+            display: block;
+            content: '';
+        }
+
+        .smallAbout h3, .smallAbout a{
+            text-align: center;
+        }
+/*---------------------------*/
+
+/*Pasikeitus akrado dydžiui padidėja tarpai tarp contact info*/
+        .footerNavigationBigDiv div:first-child a {
+            margin: 0 40px;
+        }
+    }

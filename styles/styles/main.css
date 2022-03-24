@@ -1,0 +1,7 @@
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+/*Dėl raidžių stiliaus*/
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css');
+/*Dėl icons*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+@import url('home.css');
