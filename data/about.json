@@ -1,13 +1,7 @@
 {
     "about": [
-        {
-            "about1": "Welcome to my own personal page, in which You are able to observe my favorite TV series and Movies."
-        },
-        {
-            "about2": "I have indicated title, year of the first release (whether it is first season of series or first movie from whole movie series), also brief information about them (please don't call police, cause all information is extracted from IMDB or Wikipedia, I don't want to go to jail due to copyright issues...)."
-        },
-        {
-            "about3": " In addition you are able to select each series or film on the poster which will navigate user to the separate page, which will provide more information about selected item. Lastly, on the list user is able to find all sort of types of films and series, thus, do not judge my selections..."
-        }
+        "Welcome to my own personal page, in which You are able to observe my favorite TV series and Movies.",
+         "I have indicated title, year of the first release (whether it is first season of series or first movie from whole movie series), also brief information about them (please don't call police, cause all information is extracted from IMDB or Wikipedia, I don't want to go to jail due to copyright issues...).",
+        " In addition you are able to select each series or film on the poster which will navigate user to the separate page, which will provide more information about selected item. Lastly, on the list user is able to find all sort of types of films and series, thus, do not judge my selections..."    
     ]
 }
