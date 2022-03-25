@@ -5,7 +5,7 @@
         "releaseYear": 2021,
         "lastReleaseYear" : null,
         "IMDBLink": "https://www.imdb.com/title/tt11126994/",
-        "poster": "../images/Series/arcanePoster.jpg",
+        "poster": "https://i.etsystatic.com/15963200/r/il/6ddc0d/3546316363/il_fullxfull.3546316363_s6es.jpg",
         "about": "Arcane (titled onscreen as Arcane: League of Legends) is an animated action-adventure series created by Christian Linke and Alex Yee for Netflix. Produced by Fortiche under the supervision of Riot Games, it is set in the League of Legends fictional universe,[1][2] and primarily focuses on sisters Vi and Jinx. The series was announced at the League of Legends 10th anniversary celebration in 2019,[3] and first released in November 2021."
     },
     {
@@ -14,7 +14,7 @@
         "releaseYear": 2013,
         "lastReleaseYear" : 2021,
         "IMDBLink": "https://www.imdb.com/title/tt2467372/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/brooklyn99Poster.png",
+        "poster": "https://i.pinimg.com/originals/b6/9b/b5/b69bb5fae2daa1ec1819c66b92e4e385.png",
         "about": "Brooklyn Nine-Nine is an American police procedural comedy television series that aired on Fox, later airing on NBC. The show aired from September 17, 2013 to September 16, 2021, for a total of eight seasons and 153 episodes. It was created by Dan Goor and Michael Schur. The series revolves around Jake Peralta (Andy Samberg), a New York City Police Department (NYPD) detective in Brooklyn's 99th Precinct, who often comes into conflict with his commanding officer, the serious and stern Captain Raymond Holt (Andre Braugher). The rest of the cast features Stephanie Beatriz as Rosa Diaz, Terry Crews as Terry Jeffords, Melissa Fumero as Amy Santiago, Joe Lo Truglio as Charles Boyle, Chelsea Peretti as Gina Linetti, Dirk Blocker as Michael Hitchcock, and Joel McKinnon Miller as Norm Scully."
     },
     {
@@ -23,7 +23,7 @@
         "releaseYear": 1994,
         "lastReleaseYear" : 2004,
         "IMDBLink": "https://www.imdb.com/title/tt0108778/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/friendsPoster.jpg",
+        "poster": "https://cdn.europosters.eu/image/1300/posters/friends-tv-series-i104626.jpg",
         "about": "Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons.[1] With an ensemble cast starring Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry and David Schwimmer, the show revolves around six friends in their 20s and 30s who live in Manhattan, New York City. The series was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The original executive producers were Kevin S. Bright, Kauffman, and Crane."
     },
     {
@@ -32,7 +32,7 @@
         "releaseYear": 2011,
         "lastReleaseYear" : 2019,
         "IMDBLink": "https://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/GOTPoster.jpg",
+        "poster": "https://image.posterlounge.com/images/l/1901278.jpg",
         "about": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, a series of fantasy novels by George R. R. Martin, the first of which is A Game of Thrones. The show was shot in the United Kingdom, Canada, Croatia, Iceland, Malta, Morocco, and Spain. It premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons."
     },
     {
@@ -41,16 +41,16 @@
         "releaseYear": 2009,
         "lastReleaseYear" : 2015,
         "IMDBLink": "https://www.imdb.com/title/tt1266020/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/parkAndRecrPoster.jpg",
+        "poster": "https://picfiles.alphacoders.com/353/353068.jpg",
         "about": "Parks and Recreation (also known as Parks and Rec) is an American political satire mockumentary sitcom television series created by Greg Daniels and Michael Schur. The series aired on NBC from April 9, 2009, to February 24, 2015, for 125 episodes, over seven seasons. A special reunion episode aired on April 30, 2020.[1][2][3][4] The series stars Amy Poehler as Leslie Knope, a perky, mid-level bureaucrat in the Parks Department of Pawnee, a fictional town in Indiana."
     },
     {
         "id": 6,
-        "title": "Rock and Morty",
+        "title": "Rick and Morty",
         "releaseYear": 2013,
         "lastReleaseYear" : null,
         "IMDBLink": "https://www.imdb.com/title/tt2861424/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/rickAndMortyPoster.jpg",
+        "poster": "https://cdn.europosters.eu/image/750/posters/rick-morty-portal-i40514.jpg",
         "about": "Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's nighttime programming block, Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted, but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures."
     },
     {
@@ -59,7 +59,7 @@
         "releaseYear": 1997,
         "lastReleaseYear" : null,
         "IMDBLink": "https://www.imdb.com/title/tt0121955/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/southParkPoster.jpg",
+        "poster": "https://i.pinimg.com/originals/58/33/a9/5833a92379f9fc449860ee79409bb871.jpg",
         "about": "South Park is an American animated sitcom created by Trey Parker and Matt Stone and developed by Brian Graden for Comedy Central. The series revolves around four boys—Stan Marsh, Kyle Broflovski, Eric Cartman, and Kenny McCormick—and their exploits in and around the titular Colorado town. South Park became infamous for its profanity and dark, surreal humor that satirizes a wide range of topics toward an adult audience."
     },
     {
@@ -68,7 +68,7 @@
         "releaseYear": 2005,
         "lastReleaseYear" : 2013,
         "IMDBLink": "https://www.imdb.com/title/tt0386676/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/theOfficePoster.jpg",
+        "poster": "https://assets.fontsinuse.com/static/use-media-items/136/135597/full-680x1000/6051d14e/73244-13.jpeg",
         "about": "The Office is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. It aired on NBC from March 24, 2005, to May 16, 2013, spanning a total of nine seasons.[1] Based on the 2001–2003 BBC series of the same name created by Ricky Gervais and Stephen Merchant, it was adapted for American television by Greg Daniels, a veteran writer for Saturday Night Live, King of the Hill, and The Simpsons."
     },
     {
@@ -77,7 +77,7 @@
         "releaseYear": 2019,
         "lastReleaseYear" : null,
         "IMDBLink": "https://www.imdb.com/title/tt5180504/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/theWitcherPoster.jpg",
+        "poster": "https://cdn.europosters.eu/image/750/posters/the-witcher-connected-by-fate-i115936.jpg",
         "about": "The Witcher is a Polish-American fantasy drama streaming television series created by Lauren Schmidt Hissrich, based on the book series of the same name by Polish writer Andrzej Sapkowski. Set on a fictional, medieval-inspired landmass known as 'the Continent', The Witcher explores the legend of Geralt of Rivia and Princess Ciri, who are linked to each other by destiny.[9] It stars Henry Cavill, Freya Allan and Anya Chalotra."
     },
     {
@@ -86,7 +86,7 @@
         "releaseYear": 2013,
         "lastReleaseYear" : 2020,
         "IMDBLink": "https://www.imdb.com/title/tt2306299/?ref_=fn_al_tt_1",
-        "poster": "../images/Series/vikingsPoster.jpg",
+        "poster": "https://m.media-amazon.com/images/I/61noa0sujTL._AC_SY679_.jpg",
         "about": "Vikings is a historical drama television series created and written by Michael Hirst for the History channel, a Canadian network. Filmed in Ireland, it premiered on March 3, 2013, in Canada. The series concluded on December 30, 2020, when the second half of the sixth season was released in its entirety on Amazon Prime Video in Ireland, ahead of its broadcast on History in Canada from January 1 to March 3, 2021. A sequel series, titled Vikings: Valhalla, premiered on Netflix on February 25, 2022."
     }
 ]}
